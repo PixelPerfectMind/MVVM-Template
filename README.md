@@ -1,4 +1,4 @@
-# MVVM-Vorlage
+# MVVM-Template
 This is a template for a WPF MVVMlight project. Feel free to download an use!
 
 # Usage
